@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: Join
+    url: "https://talk.veza.social"
+  - text: Login In
+    url: "https://talk.veza.social"
+  - text: Learn More
+    url: "https://talk.veza.social"
+  - text: Help
     url: "/blog"
