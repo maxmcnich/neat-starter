@@ -3,7 +3,7 @@ title: Gaining more users
 description: Veza has began to gain traction! More users are coming in slowly but surely.
 Over time, the goal is that there will be enough people to build a full digital community!
 date: 2022-11-09
-author: Anonymous (admin)
+author: Anonymous
 tags:
   - number-2
 ---

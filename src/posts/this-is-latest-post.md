@@ -2,9 +2,9 @@
 title: A welcome message
 description: Welcome to Veza. I hope that you find yourself at home.
 Try finding your community by either joining or logging in! 
-Use the buttons in the top right :)
+Use the buttons in the top right.
 date: 2020-11-11
-author: Anonymous (admin)
+author: Anonymous
 tags: second-tag
 ---
 

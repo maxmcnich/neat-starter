@@ -2,7 +2,7 @@
 title: Veza launches
 description: There isn't much to say! Welcome to the launch of Veza.
 A simple platform redefining how mental health works amongst adolescents.
-author: Anonymous (admin)
+author: Anonymous
 date: 2022-11-07
 tags:
   - left

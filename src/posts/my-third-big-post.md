@@ -3,7 +3,7 @@ title: Updates inbound!
 description: New updates are coming to Veza. Feel free to check them out or read more about them!
 We have rolled out an updated main website which you are currently using to read this post on! Sick.
 date: 2022-11-11
-author: Anonymous (admin)
+author: Anonymous
 tags:
   - second-tag
 ---
